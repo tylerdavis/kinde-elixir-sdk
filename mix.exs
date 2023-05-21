@@ -39,7 +39,7 @@ defmodule KindeSDK.Mixfile do
       {:plug, "~> 1.13"},
       {:plug_cowboy, "~> 2.0"},
       {:jason, "~> 1.3"},
-      {:httpoison, "~> 0.7"}
+      {:httpoison, "~> 1.2"}
     ]
   end
 
